@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AryanMane1
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Web devolpment
+- 🌱 I’m currently learning Full Stack Web devolpment, Machine Learning, Arduino Framework
 
 <!---
 AryanMane1/AryanMane1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
